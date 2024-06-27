@@ -1,0 +1,13 @@
+#errorReloadPageButton {
+    background: #32a875;
+    border-radius: 15px;
+    padding:20px;
+    font-size: 20px;
+    filter:drop-shadow();
+    transition: all, .4s;
+    cursor: pointer;
+}
+
+#errorReloadPageButton:hover {
+    filter:grayscale(0)
+}

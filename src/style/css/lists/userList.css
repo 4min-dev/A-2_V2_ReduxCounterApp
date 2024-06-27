@@ -1,0 +1,23 @@
+.userList {
+    position: relative;
+    padding:20px;
+    border-radius: 15px;
+    background: #32A875;
+    margin:100px 20px 100px 20px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    width: auto;
+}
+
+.userInteraction {
+    position: absolute;
+    right:20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.userInteraction > img {
+    width: 50px;
+    height: 50px;
+}

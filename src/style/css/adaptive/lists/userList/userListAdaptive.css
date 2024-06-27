@@ -1,0 +1,6 @@
+@media (max-width:1920px) {
+    .userList {
+        min-width: 50vw;
+        max-width: 50vw;
+    }
+}

@@ -1,0 +1,33 @@
+.homePageCounterCheckboxContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#delayButton {
+    position: relative;
+    cursor: pointer;
+    margin:10px 0px 0px 0px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (hover:hover) {
+    #delayButton::before {
+        position: absolute;
+        content: '';
+        width: 0;
+        bottom:-5px;
+        border-bottom: 2px solid black;
+        transition: all,.4s;
+    }
+    
+    #delayButton:hover::before {
+        width: 100%;
+        
+    }
+}

@@ -1,0 +1,17 @@
+#grn_style_btn {
+    background:#32a875;
+    filter: drop-shadow(5px 5px 10px black);
+    width: 250px;
+    padding:20px;
+    font-size: 32px;
+    margin:20px;
+    transition: all,.4s;
+}
+
+@media (hover:hover) {
+    #grn_style_btn:hover:not(:disabled) {
+        cursor: pointer;
+        border-radius: 15px;
+        filter: drop-shadow(5px 5px 5px black);
+    }
+}

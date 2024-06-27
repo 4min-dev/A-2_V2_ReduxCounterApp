@@ -1,0 +1,12 @@
+.addressInformation {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    padding:20px;
+}
+
+.userAddressContainer {
+    font-weight: bold;
+}

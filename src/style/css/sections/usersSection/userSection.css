@@ -1,0 +1,18 @@
+.homePageUsersSection {
+    position: relative;
+    margin:0;
+    padding:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 2px solid black;
+}
+
+.listContainer_userListContainer {
+    position: relative;
+    display: flex;
+    min-width: fit-content;
+    max-width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
