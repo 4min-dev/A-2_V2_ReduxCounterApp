@@ -1,4 +1,4 @@
-<h1># A-2_V2_ReduxCounterApp</h1>
+# A-2_V2_ReduxCounterApp
 [ A2, Version 2 - updated version without toolkit, RTK ] Vite + React + TS + Redux / Redux Saga project without RTK, Toolkit.
 
 EN | An updated version of an A2 type project called [ReduxCounterApp](https://github.com/4min-dev/-A2-Vite-React-TS-Redux-Redux-Saga). (clickable).
