@@ -15,7 +15,8 @@ JS,
 TS,
 React,
 Redux,
-Redux-saga.
+Redux-saga,
+Redux-thunk.
 
 Links to everything in the header.
 _______________________________________________________________
@@ -32,7 +33,8 @@ JS,
 TS,
 React,
 Redux,
-Redux-saga.
+Redux-saga,
+Redux-thunk.
 
 Ссылки на все в заголовке.
 
