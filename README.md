@@ -5,7 +5,7 @@ _______________________________________________________________
 
 EN | This project is a type A2 project.
 
-reactCounterApp is a large A2 type work that includes 6 versions of projects.
+ReduxCounterApp is a large A2 type work that includes 6 versions of projects.
 Each version includes improvements to the project, the final working version is V6.
 
 The following stack is present in this version of the project:
@@ -23,7 +23,7 @@ _______________________________________________________________
 
 RU | Данный проект является типом А2.
 
-reactCounterApp - это большая работа типа A2, которая включает в себя 6 версий проектов.
+ReduxCounterApp - это большая работа типа A2, которая включает в себя 6 версий проектов.
 Каждая версия включает в себя улучшения проекта, финальной рабочей версией является V6.
 
 В этой версии проекта присутствует следующий стек:
